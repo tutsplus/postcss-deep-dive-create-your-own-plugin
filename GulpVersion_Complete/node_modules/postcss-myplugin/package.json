@@ -1,0 +1,15 @@
+{
+  "name": "postcss-myplugin",
+  "version": "1.0.0",
+  "description": "Basic PostCSS plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kezz Bracey",
+  "license": "MIT",
+  "dependencies": {
+    "postcss": "^4.1.16",
+    "underscore": "^1.8.3"
+  }
+}

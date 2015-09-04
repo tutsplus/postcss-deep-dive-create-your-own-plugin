@@ -1,0 +1,11 @@
+{
+  "name": "gruntpostcssstarter",
+  "version": "1.0.0",
+  "description": "Basic starter project for PostCSS use via Grunt",
+  "author": "Kezz Bracey",
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-postcss": "^0.6.0"
+  }
+}
